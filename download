@@ -1,0 +1,6 @@
+dist/
+release-assets/
+.release.json
+node_modules/
+.env
+*.log
